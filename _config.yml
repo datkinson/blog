@@ -8,7 +8,7 @@ subtitle:
 description: Personal blog of a Web Developer / System Administrator
 author: Daniel Atkinson
 language: en_GB
-timezone:
+timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -136,5 +136,4 @@ miscellaneous:
         google_plus:
     links:
         Hexo: http://hexo.io
-
 
