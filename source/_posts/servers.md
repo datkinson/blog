@@ -1,12 +1,11 @@
 ---
 title: Servers
 categories:
-- hardware
+- Hardware
 tags:
 - server
 - rack
 - ikea
-- lackrack
 - lack-rack
 ---
 
