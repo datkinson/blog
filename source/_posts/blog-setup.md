@@ -2,6 +2,8 @@
 title: Blog Setup
 ---
 
+![alt text](/images/setup.png "Setup")
+
 ## Background
 
 My name is Dan and I'm a Developer / System Administrator.
