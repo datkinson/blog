@@ -2,7 +2,7 @@
 title: Blog Setup
 ---
 
-![alt text](/images/setup.png "Setup")
+![Setup](/images/setup.png "Setup")
 
 ## Background
 
