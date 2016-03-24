@@ -32,3 +32,13 @@ It also allows me to get everything set up on one system, export it then import 
 ### Example
 
 Recently I have been looking into load balancing for web applications, typically PHP and MySQL based ones as that is what the company I work for mainly produces.
+
+With docker you can set up networks between your containers as if each individual container is a physical machine.  With this in mind I set up a bunch of containers each to do one specific job (microservices).
+
+- Load Balancer
+- PHP Application
+- MySQL Database
+
+In this configuration the load balancer acted in a similar fashion to nginx as a simple proxy, the PHP application interacted with the MySQL server to serve content.
+
+This all worked as you would expect if they were 3 physical machines on a network all communicating with each other.
