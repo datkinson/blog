@@ -113,7 +113,7 @@ search:
 
 # Comment
 comment:
-  disqus: # enter disqus shortname here
+  disqus: datkinson
   duoshuo: # enter duoshuo shortname here
   youyan: # enter youyan uid here
 
