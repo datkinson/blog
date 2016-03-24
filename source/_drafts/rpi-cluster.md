@@ -27,3 +27,23 @@ This was less than ideal is it is very large, hard to mount the boards to, mostl
 
 Networking is also needed for this setup.  In my inventory is a 5 port gigabit switch but I need at least 9 ports if I want to connect all 8 raspberry pis and another port to connect to the router.  I could get an 8 port and drop one pi or get a 16 port for a bit more cost.
 This is not what I did.  Instead I took the plunge and bought a 24 port gigabit rackmount switch, under the pretense that it will be used for other projects such as the home made rack.
+
+Slightly less make shift than a piece of wood is my next attempt at mounting all the pis is by using some cardboard packaging and some cable ties.
+
+Cut an amazon box into a square, poked holes in it and strapped the raspberry pis to it by threading cable ties though the holes around the pis.  Also added some extra cable ties in as runs for the networking cable to keep it out of the way.
+The card was cut to fit in a rackmount drawer which was previously occupied by a laptop.
+
+![Rackmount Drawer](/images/rpi/rack-drawer.jpg "Rackmount Drawer")
+
+Featured in the picture is also an 8 port USB power supply in the top left corner. This is handy because it is a single cable into the drawer to power all of the Pis.  Also you may notice there is only 6 pis in the drawer, this is for 2 reasons:
+
+- The RPi Zeros need an external ethernet adapter with takes up space due to the length of the cable.
+- I wanted to keep the Zeros for other projects when they can be embedded such as some home automation applications.
+
+Running the networking cables around the edge of the drawer (mostly) and out the back worked out well.  It allows the drawer to still function.  They come out the back, loop around to the front of the rack and into the switch.  The switch now blinks like crazy when using the pis as there are 2 lights per connected device.
+
+Here is what the rack looks like with all of the pis in the drawer, connected up and powered on.
+
+![RPi Rack](/images/rpi/rpi-rack.jpg "RPi Rack")
+
+This could be made much smaller but I wanted it to fit into the rack that is under construction in my house.  May as well put everything in one place.
