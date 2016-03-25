@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Cluster
+title: Raspberry Pi Cluster - Part 1
 categories:
 - Hardware
 tags:
