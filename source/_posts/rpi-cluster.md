@@ -1,5 +1,6 @@
 ---
 title: Raspberry Pi Cluster - Part 1
+date: 2016/3/25 14:22:19
 categories:
 - Hardware
 tags:
