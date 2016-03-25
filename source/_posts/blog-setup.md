@@ -1,6 +1,12 @@
 ---
 title: Blog Setup
+categories:
+- Software
+tags:
+- hexo
+- setup
 ---
+
 
 ![Setup](/images/setup.png "Setup")
 
