@@ -10,7 +10,7 @@ tags:
 ---
 ### Introduction
 
-In the [previous post(/2016/03/25/rpi-cluster/) I talked about setting up the physical hardware for a home made cluster using Raspberry Pis with the goal of creating a hardware and software stack for learning how to use clustering technologies.
+In the [previous post](/2016/03/25/rpi-cluster/) I talked about setting up the physical hardware for a home made cluster using Raspberry Pis with the goal of creating a hardware and software stack for learning how to use clustering technologies.
 
 The hardware for the [Raspberry Pi Cluster](/2016/03/25/rpi-cluster/) is in a usable state so the next step is to install software on it.
 
