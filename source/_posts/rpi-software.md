@@ -23,7 +23,7 @@ PHP is just being used as an example.
 
 ![PHP Logo](/images/rpi/php.svg "PHP Logo")
 
-One of the Raspberry Pis will need to have a web server installed to server the PHP.  First of all install [raspbian from the official website](https://www.raspberrypi.org/downloads/raspbian/), I used the lite version as the cluster does not need a full desktop environment only a lightweight server.  Instructions on how to do this can be found [here](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
+One of the Raspberry Pis will need to have a web server installed to serve the PHP.  First of all install [raspbian from the official website](https://www.raspberrypi.org/downloads/raspbian/), I used the lite version as the cluster does not need a full desktop environment only a lightweight server.  Instructions on how to do this can be found [here](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
 
 Once that has been installed installing PHP and a web server is next, again this does not have to be httpd it could be nginx, webrick or anything else.
 
